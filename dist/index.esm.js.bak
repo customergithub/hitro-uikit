@@ -2800,7 +2800,7 @@ var baseColors = {
     secondary: "#294436",
     success: "#31D0AA",
     warning: "#FFB237",
-    sec: "#EA07F1"
+    sec: "#35589A"
 };
 var brandColors = {
     binance: "#F0B90B",
